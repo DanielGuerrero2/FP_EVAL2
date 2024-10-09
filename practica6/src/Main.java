@@ -9,7 +9,7 @@ public class Main {
         String accum = "";
         char c = '*';
        for (int i= numero; i>0; i--){
-           //en la primera iteración i=5 y j es
+           
 
            for (int j=0; j<i; j++){
                accum += c;
